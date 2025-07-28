@@ -23,8 +23,6 @@ The analysis for this project seeks to answer the following key questions:
 4.  What was the total number of cancelled flights in 2015, and what were the primary drivers for cancellation (e.g., weather, airline-related issues)?
 5.  Which airlines were the most and least reliable in terms of on-time departures?
 
-## [Key Insights & Findings](./Final-Report/Final-Report.pdf)
-
 ## Tools & Technologies
 
 *   **Data Analysis & Visualization**: Power BI
@@ -32,5 +30,5 @@ The analysis for this project seeks to answer the following key questions:
 
 ## How to View This Project
 
-1.  **Explore the Dashboard**: [Link to your interactive Power BI dashboard or add screenshots to a `dashboards/` folder]
-2.  **Review the Original Report**: The `Visual_Analytics_Report.docx` can be found in the `docs/` folder for additional context.
+1.  [**Dashboard**](./Dashboard/Dashboard.md)
+2.  [**Final Report**: ](./Final-Report/Final-Report.pdf)
